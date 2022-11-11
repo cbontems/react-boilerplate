@@ -1,0 +1,10 @@
+{
+  "extensionName": {
+    "message": "React Chrome Extension Boilerplate",
+    "description": "The extension name"
+  },
+  "extensionDescription": {
+    "message": "A boilerplate for creating a manifest V3 Chrome extension using ReactJS",
+    "description": "The extension description"
+  }
+}
